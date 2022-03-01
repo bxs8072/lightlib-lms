@@ -1,0 +1,6 @@
+projectKey=lightlib-lms
+serverUrl=https://sonar.some-domain.xx
+serverVersion=9.3.0.51899
+dashboardUrl=https://sonar.some-domain.xx/dashboard?id=lightlib-lms
+ceTaskId=AX9DHK-JzPWHn63a0jvx
+ceTaskUrl=https://sonar.some-domain.xx/api/ce/task?id=AX9DHK-JzPWHn63a0jvx
